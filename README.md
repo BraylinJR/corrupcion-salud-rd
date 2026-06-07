@@ -2,7 +2,7 @@
 
 > **Health-GDP-Corruption** es un análisis exploratorio y econométrico que evalúa cómo la corrupción institucional se relaciona con resultados de salud pública, mortalidad cardiovascular y esperanza de vida, usando datos internacionales para República Dominicana y países comparables.
 
-![Mapa de calor: correlación entre corrupción y salud pública](assets/heatmap_correlation_rdbu.png)
+<img width="907" height="732" alt="download" src="https://github.com/user-attachments/assets/4a481d40-5cf2-4432-b428-7f09a64396aa" />
 
 ## Resumen ejecutivo
 
@@ -34,7 +34,7 @@ Para República Dominicana, el modelo estima:
 
 ### 1. Correlación entre corrupción, economía y salud
 
-![Mapa de calor alternativo](assets/heatmap_correlation_blues.png)
+<img width="907" height="732" alt="1_download" src="https://github.com/user-attachments/assets/c3bb1a57-f1f3-4051-8855-344b50ddc714" />
 
 El mapa de calor muestra relaciones relevantes:
 
@@ -50,13 +50,13 @@ La lectura general es clara: los países con mayor corrupción presentan peores 
 
 ### 2. Años de vida “robados” por corrupción
 
-![Años de vida robados por la corrupción](assets/life_years_stolen.png)
+<img width="1600" height="960" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/91cd990d-260a-42de-8ee5-89e3bf2c842a" />
 
 República Dominicana aparece como el país con mayor reducción estimada de esperanza de vida dentro del grupo analizado.
 
 ### 3. Vidas perdidas anualmente por corrupción
 
-![Vidas perdidas anualmente por corrupción](assets/annual_deaths_cardio.png)
+<img width="1600" height="960" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/3001f705-791d-43f7-a866-12e7dfd986e7" />
 
 La visualización estima el volumen de muertes cardiovasculares anuales asociadas al nivel de corrupción institucional, ajustado por población.
 
